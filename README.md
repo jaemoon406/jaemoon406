@@ -1,6 +1,6 @@
 Hello! My name is LEE JAE MOON
 
-I'M Junior Back-end Developer
+I'm Junior Back-end Developer
 
 
 ---

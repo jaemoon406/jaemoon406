@@ -1,4 +1,4 @@
-Hello! My name is Jae Moon Lee
+Hello!  Jae Moon Lee
 
 I'm Junior Back-end Developer
 
